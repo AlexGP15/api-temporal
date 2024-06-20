@@ -1,23 +1,21 @@
 {
-  "name": "alurageek-api",
+  "name": "api-temporal",
   "version": "1.0.0",
-  "description": "Products for Alura Geek fake store api",
+  "description": "Pruebas para api temporal",
   "main": "index.js",
   "scripts": {
     "start": "node api/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SofiDevO/alurageek-API.git"
+    "url": "https://github.com/AlexGP15/api-temporal"
   },
   "keywords": [
-    "alura",
-    "alurageek",
     "json-server",
     "javascript",
     "API"
   ],
-  "author": "Sofidev, contact@itssofi.dev",
+  "author": "Alex Garcia, sistemasmegasof@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SofiDevO/alurageek-API/issues"
