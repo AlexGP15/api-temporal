@@ -1,8 +1,8 @@
 {
     "dirEmpleados": [
         {
-            "nombre": "Álvaro Betancur",
-            "cargo": "Técnico Relojero",
+            "nombre": "Alvaro Betancur",
+            "cargo": "Tecnico Relojero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
@@ -25,7 +25,7 @@
             "imagen": "https://portal-inter.s3.amazonaws.com/Paula+Cano.png"
         },
         {
-            "nombre": "Andrea Cárdenas",
+            "nombre": "Andrea Cardenas",
             "cargo": "Cajero Supernumerario",
             "celular": 3137249413,
             "extension": "",
@@ -109,7 +109,7 @@
             "imagen": "https://portal-inter.s3.amazonaws.com/logo_sin_fondo_dorado.png"
         },
         {
-            "nombre": "Edilma Durán",
+            "nombre": "Edilma Duran",
             "cargo": "Analista De Monitoreo",
             "celular": 3003396194,
             "extension": "",
@@ -122,7 +122,7 @@
         },
         {
             "nombre": "Juan F. Escobar",
-            "cargo": "Técnico Joyero",
+            "cargo": "Tecnico Joyero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
@@ -145,7 +145,7 @@
             "imagen": "https://portal-inter.s3.amazonaws.com/logo_sin_fondo_dorado.png"
         },
         {
-            "nombre": "Juan P. Gallón",
+            "nombre": "Juan P. Gallon",
             "cargo": "Contador",
             "celular": 3206100786,
             "extension": 1117,
@@ -181,7 +181,7 @@
             "imagen": "https://portal-inter.s3.amazonaws.com/Nathalia+Garc%C3%ADa.png"
         },
         {
-            "nombre": "Alexander García",
+            "nombre": "Alexander Garcia",
             "cargo": "Coor. De Sistemas",
             "celular": 3125052018,
             "extension": "",
@@ -194,7 +194,7 @@
         },
         {
             "nombre": "Diocelina Giraldo",
-            "cargo": "Analista De Taller Relojería",
+            "cargo": "Analista De Taller Relojeria",
             "celular": 3153526060,
             "extension": 3403,
             "correo_corporativo": "aserviciorelojeria@joyeriainter.com",
@@ -206,7 +206,7 @@
         },
         {
             "nombre": "Luis A. Gutierrez",
-            "cargo": "Técnico Joyero",
+            "cargo": "Tecnico Joyero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
@@ -230,7 +230,7 @@
         },
         {
             "nombre": "Jhon F. Herrera",
-            "cargo": "Técnico Relojero",
+            "cargo": "Tecnico Relojero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
@@ -289,7 +289,7 @@
             "imagen": "https://portal-inter.s3.amazonaws.com/logo_sin_fondo_dorado.png"
         },
         {
-            "nombre": "Diana C. Martínez",
+            "nombre": "Diana C. Martinez",
             "cargo": "Asesor Comercial",
             "celular": 3127810548,
             "extension": "",
@@ -302,7 +302,7 @@
         },
         {
             "nombre": "Carlos A. Montoya",
-            "cargo": "Técnico Relojero",
+            "cargo": "Tecnico Relojero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
@@ -338,7 +338,7 @@
         },
         {
             "nombre": "Ramon Navarro",
-            "cargo": "Técnico Relojero",
+            "cargo": "Tecnico Relojero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
@@ -373,7 +373,7 @@
             "imagen": "https://portal-inter.s3.amazonaws.com/logo_sin_fondo_dorado.png"
         },
         {
-            "nombre": "William Pérez",
+            "nombre": "William Perez",
             "cargo": "Mensajero",
             "celular": 3104422417,
             "extension": "",
@@ -482,7 +482,7 @@
         },
         {
             "nombre": "Sinai Restrepo",
-            "cargo": "Técnico Relojero",
+            "cargo": "Tecnico Relojero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
@@ -506,7 +506,7 @@
         },
         {
             "nombre": "Isabel C. Rodriguez",
-            "cargo": "Analista De Taller Relojería",
+            "cargo": "Analista De Taller Relojeria",
             "celular": 3114261564,
             "extension": 3405,
             "correo_corporativo": "aservicios@joyeriainter.com",
@@ -529,7 +529,7 @@
             "imagen": "https://portal-inter.s3.amazonaws.com/logo_sin_fondo_dorado.png"
         },
         {
-            "nombre": "Angela M. Rúa",
+            "nombre": "Angela M. Rua",
             "cargo": "Asesor Comercial",
             "celular": 3226641305,
             "extension": "",
@@ -566,7 +566,7 @@
         },
         {
             "nombre": "Juliana A. Santander",
-            "cargo": "Técnico Joyero",
+            "cargo": "Tecnico Joyero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
@@ -602,7 +602,7 @@
         },
         {
             "nombre": "Pedro M. Suarez",
-            "cargo": "Técnico Joyero",
+            "cargo": "Tecnico Joyero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
@@ -661,8 +661,8 @@
             "imagen": "https://portal-inter.s3.amazonaws.com/logo_sin_fondo_dorado.png"
         },
         {
-            "nombre": "Santiago Úsuga",
-            "cargo": "Técnico Relojero",
+            "nombre": "Santiago Usuga",
+            "cargo": "Tecnico Relojero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
@@ -674,7 +674,7 @@
         },
         {
             "nombre": "Marcela Valencia",
-            "cargo": "Técnico Relojero",
+            "cargo": "Tecnico Relojero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
@@ -685,19 +685,19 @@
             "imagen": "https://portal-inter.s3.amazonaws.com/logo_sin_fondo_dorado.png"
         },
         {
-            "nombre": "",
-            "cargo": "Johana Velásquez\"",
-            "celular": "Analista De Taller Joyeria",
-            "extension": 3136673027,
-            "correo_corporativo": 3406,
-            "correo_gmail": "auxserviciojoyeria@lesentier.com.co",
-            "dia_cumple": "tallerjoyeriainter03@gmail.com",
-            "mes_cumple": 13,
-            "fecha_ingreso": "Abril",
-            "imagen": "2021-12-16"
+            "nombre": "Johana Velasquez",
+            "cargo": "Analista De Taller Joyeria",
+            "celular": 3136673027,
+            "extension": 3406,
+            "correo_corporativo": "auxserviciojoyeria@lesentier.com.co",
+            "correo_gmail": "tallerjoyeriainter03@gmail.com",
+            "dia_cumple": 13,
+            "mes_cumple": "Abril",
+            "fecha_ingreso": "2021-12-16",
+            "imagen": "https://portal-inter.s3.amazonaws.com/Johana-Vel%C3%A1squez.png"
         },
         {
-            "nombre": "Yuliana Vélez",
+            "nombre": "Yuliana Velez",
             "cargo": "Diseñador De Experiencias",
             "celular": 3174293030,
             "extension": "",
@@ -722,7 +722,7 @@
         },
         {
             "nombre": "Paola A. Zapata",
-            "cargo": "Técnico Joyero",
+            "cargo": "Tecnico Joyero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
@@ -734,7 +734,7 @@
         },
         {
             "nombre": "Juan D. Zuluaga",
-            "cargo": "Técnico Joyero",
+            "cargo": "Tecnico Joyero",
             "celular": "",
             "extension": "",
             "correo_corporativo": "",
