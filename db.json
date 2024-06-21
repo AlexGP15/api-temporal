@@ -56,7 +56,7 @@
             "id": 5,
             "nombre": "Linair Carrillo",
             "cargo": "Analista Contable",
-            "celular": 3105333862,
+            "celular": 3052505537,
             "extension": 1116,
             "correo_corporativo": "acontabilidad@joyeriainter.com",
             "correo_gmail": "contabilidadinter02@gmail.com",
@@ -820,6 +820,4 @@
             "imagen": "https://portal-inter.s3.amazonaws.com/Mart%C3%ADn+Zuluaga.png"
         }
     ]
-
 }
-
